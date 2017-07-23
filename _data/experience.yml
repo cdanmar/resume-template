@@ -1,19 +1,38 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# HBK Engineering
+- company: HBK Engineering
+  position: Systems Administrator
+  duration: November 2016 &mdash; June 2017
+  summary: Systems Administrator in charge of a primarily VMWare based private cloud environment, as well as the networking needs of a growing, distributed office. 	<ul class="resume-item-list"><li>Managed VMWare and HyperV</li><li>Team lead for desktop support staff</li><li>Managed office rollouts and co-ordinated deployment of services such as Voice and Data systems</li> </ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# WiredTree
+- company: WiredTree
+  position: Linux Systems Administrator
+  duration:  March, 2016 &mdash; November, 2016
+  summary: Provided support to web applications in a Linux managed hosting environment. <ul class="resume-item-list"><li>Troubleshot and managed a wide variety of CMS applications and their databases </li><li>Provided timely disaster recovery services to sites affected by outages, such as infected websites</li><li>Managed DNS and Firewalls for clients</li> <li>Managed time sensitive rollouts/migrations of CentOS instances and their application stack</li> </ul>
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# NetSource Communications
+- company: NetSource Communications
+  position: Systems Administrator
+  duration:   March, 2014  &mdash; March, 2016
+  summary: Provided support to dedicated, colocated, and virtual servers in a datacenter. Managed both servers and networking in a 24/7 support environment. <ul class="resume-item-list"><li>Primary support contact for WordPress and other CMS applications</li><li>Managed a wide variety of Linux and Windows operating systems</li><li>Provided expert level support to a variety of firewalls, both virtual and physical</li> <li>Maintained strict SLA, both during shift and during on call duty after hours</li> </ul>
+
+# Ziegler
+- company: Ziegler
+  position: Desktop Support Technician
+  duration:   March, 2013  &mdash; September, 2013
+  summary: Provided helpdesk and desktop support to various satellite offices of a fast paced invested bank. Provided support to proprietary tools like NetX360 and Bloomberg Terminals.
+
+# kCura
+- company: kCura
+  position: IT Intern
+  duration:   July, 2011  &mdash; February, 2012
+  summary: Gained extensive experience in corporate IT infrastructure and user support; installed, configured, and maintained diverse workstations and software. Provided Help Desk support for phone- and email-based service requests; input, updated, and closed trouble tickets. Administered user accounts and permissions for Windows Server 2008, VMware, Active Directory, Microsoft Exchange, Salesforce, and Avaya Phone Server.
+
+# U-46
+- company: Elgin School District U-46
+  position: Desktop Support Technician 1
+  duration:   January, 2008  &mdash; May, 2011
+  summary: Handled installation, configuration, maintenance, and issue resolution for hardware, software, and networks within classroom and lab environments. Provided user support for students, faculty, and staff. Coordinated with product/service vendors to correct issues and facilitate new initiatives. Developed technical training tools, procedures, and manuals for diverse hardware and software. Spearheaded biannual, district-wide imaging projects. Conducted IT asset tracking and inventory management
+

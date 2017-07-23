@@ -1,6 +1,13 @@
-# Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Actualize
+- degree: 
+  uni: Actualize Coding Bootcamp
+  year: 2017
+  awards: 
+  summary: Full Stack, immersive coding Bootcamp. Lessons included Ruby, Ruby on Rails, Javascript, CSS, NodeJS, ActiveRecord, PostgreSQL, and some Agile techniques.
+
+# DeVry
+- degree: Network System's Administration
+  uni: DeVry University
+  year: 2008 &mdash; 2010 (hiatus)
+  awards: 
+  summary: Trained in advanced networking concepts, such as switching, routing, and WAN networks. Learned to manage switches and routers running Cisco's IOS operating system. Recieved training in operation of Linux and Windows operating systems.
