@@ -3,7 +3,7 @@
 - company: The Difference Engine
   position: Developer
   duration: July 2017 &mdash; Present
-  summary: Developer primarily in charge of testing builds prior to deployment to QA and eventually production.   <ul class="resume-item-list"><li>Writes unit tests for various controllers, ensuring fuctioning workflow and testing for potential vulneravilities</li><li>Provides advice on security when needed</li><li>Managed deployment troubleshooting when unit testing fails</li> </ul>
+  summary: Developer primarily in charge of testing builds prior to deployment to QA and eventually production.   <ul class="resume-item-list"><li>Writes unit tests for various controllers, ensuring fuctioning workflow and testing for potential vulnerabilities</li><li>Provides advice on security when needed</li><li>Managed deployment troubleshooting when unit testing fails</li> </ul>
 
 
 # HBK Engineering

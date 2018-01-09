@@ -1,6 +1,11 @@
 # Projects
+# Back of the Yards Coffee
+- project: Back of the Yards Coffee
+  role: Developer
+  duration: June 2017 &mdash; December 2017
+  description: Full stack developer primarily in charge of rspec testing and build troubleshooting.
 # EventMGR
 - project: EventMGR
   role: Creator and Developer
-  duration: 2017 &mdash; Present
-  description: EventMGR is currently a prototype NFC based event management app. It allows users to create events, add users to them, assosiate RFID cards to those users, and check them in once the event starts. The application is built on Ruby and Rails, and it uses a custom built RFID card reader on the Raspberry PI 3 to check users in. See "Additional Links" for source code. 
+  duration: 2017
+  description: EventMGR is currently a prototype NFC based event management app. It allows users to create events, add users to them, assosiate RFID cards to those users, and check them in once the event starts. The application is built on Ruby and Rails, and it uses a custom built RFID card reader on the Raspberry PI 3 to check users in. See "Additional Links" for source code.
