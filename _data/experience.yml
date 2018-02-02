@@ -3,7 +3,7 @@
 - company: The Difference Engine
   position: Developer
   duration: July 2017 &mdash; January 2018
-  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD Workflow via TravisCI and Buildship</li><li>Developed Rails app with React Components</li><li>Managed Unit Testing via RSpec and Jest</li> </ul>
+  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD workflow via TravisCI and Buildship</li><li>Developed Rails app with React components</li><li>Managed unit testing via RSpec and Jest</li><li>Trained new developers in development/testing workflow.</li> </ul>
 
 
 # HBK Engineering
