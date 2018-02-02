@@ -2,8 +2,8 @@
 #The Difference Engine
 - company: The Difference Engine
   position: Developer
-  duration: July 2017 &mdash; Present
-  summary: Developer primarily in charge of testing builds prior to deployment to QA and eventually production.   <ul class="resume-item-list"><li>Writes unit tests for various controllers, ensuring fuctioning workflow and testing for potential vulnerabilities</li><li>Provides advice on security when needed</li><li>Managed deployment troubleshooting when unit testing fails</li> </ul>
+  duration: July 2017 &mdash; January 2018
+  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD Workflow via TravisCI and Buildship</li><li>Developed Rails app with React Components</li><li>Managed Unit Testing via RSpec and Jest</li> </ul>
 
 
 # HBK Engineering
@@ -15,31 +15,31 @@
 # WiredTree
 - company: WiredTree
   position: Linux Systems Administrator
-  duration:  March, 2016 &mdash; November, 2016
+  duration:  March 2016 &mdash; November 2016
   summary: Provided support to web applications in a Linux managed hosting environment. <ul class="resume-item-list"><li>Troubleshot and managed a wide variety of CMS applications and their databases </li><li>Provided timely disaster recovery services to sites affected by outages, such as infected websites</li><li>Managed DNS and Firewalls for clients</li> <li>Managed time sensitive rollouts/migrations of CentOS instances and their application stack</li> </ul>
 
 
 # NetSource Communications
 - company: NetSource Communications
   position: Systems Administrator
-  duration:   March, 2014  &mdash; March, 2016
+  duration:   March 2014  &mdash; March 2016
   summary: Provided support to dedicated, colocated, and virtual servers in a datacenter. Managed both servers and networking in a 24/7 support environment. <ul class="resume-item-list"><li>Primary support contact for WordPress and other CMS applications</li><li>Managed a wide variety of Linux and Windows operating systems</li><li>Provided expert level support to a variety of firewalls, both virtual and physical</li> <li>Maintained strict SLA, both during shift and during on call duty after hours</li> </ul>
 
 # Ziegler
 - company: Ziegler
   position: Desktop Support Technician
-  duration:   March, 2013  &mdash; September, 2013
+  duration:   March 2013  &mdash; September 2013
   summary: Provided helpdesk and desktop support to various satellite offices of a fast paced invested bank. Provided support to proprietary tools like NetX360 and Bloomberg Terminals.
 
 # kCura
 - company: kCura
   position: IT Intern
-  duration:   July, 2011  &mdash; February, 2012
+  duration:   July 2011  &mdash; February 2012
   summary: Gained extensive experience in corporate IT infrastructure and user support; installed, configured, and maintained diverse workstations and software. Provided Help Desk support for phone- and email-based service requests; input, updated, and closed trouble tickets. Administered user accounts and permissions for Windows Server 2008, VMware, Active Directory, Microsoft Exchange, Salesforce, and Avaya Phone Server.
 
 # U-46
 - company: Elgin School District U-46
   position: Desktop Support Technician 1
-  duration:   January, 2008  &mdash; May, 2011
+  duration:   January 2008  &mdash; May 2011
   summary: Handled installation, configuration, maintenance, and issue resolution for hardware, software, and networks within classroom and lab environments. Provided user support for students, faculty, and staff. Coordinated with product/service vendors to correct issues and facilitate new initiatives. Developed technical training tools, procedures, and manuals for diverse hardware and software. Spearheaded biannual, district-wide imaging projects. Conducted IT asset tracking and inventory management
 
