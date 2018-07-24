@@ -3,13 +3,13 @@
 - company: Solstice
   position: DevOps Engineer
   duration: March 2018 &mdash; July 2018
-  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments</li> </ul>
-  
+  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments to Google Kuberentes Engine</li> </ul>
+
 #The Difference Engine
 - company: The Difference Engine
   position: Developer
   duration: July 2017 &mdash; January 2018
-  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD workflow via TravisCI and Buildship</li><li>Developed Rails app with React components</li><li>Managed unit testing via RSpec and Jest</li><li>Trained new developers in development/testing workflow.</li> </ul>
+  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD workflow via TravisCI and Buildship</li><li>Developed Rails app with React components</li><li>Managed unit testing via RSpec and Jest</li><li>Trained new developers in development/testing workflow</li> </ul>
 
 
 # HBK Engineering
