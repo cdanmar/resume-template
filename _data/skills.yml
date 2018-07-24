@@ -1,12 +1,16 @@
 # Skills
 # Development
 - skill: Development
-  description: Ruby, Ruby on Rails, React, Postgresql, Active Record, HTM/CSS, Javascript, Heroku, Github, AWS CodeDeploy
+  description: Ruby, Ruby on Rails, React, Postgresql, Active Record, HTM/CSS, Javascript, Heroku
+
+#DevOps
+- skill: DevOps Tools
+description: Github, AWS CodeDeploy, Docker, Kubernetes, Terraform, Jenkins, Spinnaker
 
 # Systems Administration
-- skill: Systems
-  description: AWS Lambda, Cloudfront, Private Cloud Hosting and maintenance (Xen Server, HyperV, VMWare, Cloudstack), CentOS, Debian, Raspbian, Nagios, MRTG, Apache, R1soft CDP backups, Web Application Hardening, Active Directory, Windows Server (2003, 2008, 2012, 2016), Exchange
+- skill: Systems/Platforms
+  description: GCP, Google Kubernetes Engine, AWS, Cloudfront, Private Cloud Hosting and maintenance (Xen Server, HyperV, VMWare, Cloudstack), CentOS, Debian, Raspbian, Nagios, MRTG, Apache, R1soft CDP backups, Web Application Hardening, Active Directory, Windows Server (2003, 2008, 2012, 2016), Exchange
 
 # Networking
 - skill: Networking
-  description: Route 53, DNS, Cisco IOS, Routing/Switching, MPLS, Palo Alto, VPN
+  description: Kubernetes Container Networking (Flannel), Route 53, DNS, Cisco IOS, Routing/Switching, MPLS, Palo Alto, VPN
