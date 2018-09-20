@@ -3,7 +3,7 @@
 - company: Solstice
   position: DevOps Engineer
   duration: March 2018 &mdash; July 2018
-  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments in Google Kuberentes Engine</li> </ul>
+  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments in Google Kuberentes Engine for a large enterprise customer</li></ul>
 
 #The Difference Engine
 - company: The Difference Engine
