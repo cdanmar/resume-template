@@ -1,4 +1,10 @@
 # Jobs
+#Enova
+- company: Enova
+  position: Senior Deployment Engineer
+  duration: October 2018 &mdash; Present
+  summary: Deployment Engineer focused on spearheading Cloud Native tools and patterns while supporting existing infrastructure <ul class="resume-item-list"><li>Spearheaded some of Enova's first container deployment projects, with a focus on establishing best practices that moved our team away from manual processes, server drift, and technical debt</li><li>Established new pipelines for container builds and promotion</li><li>Worked closely with other teams to establish new security practices, including migrating secrets to Vault and establishing container security standards</li></ul>
+
 #Solstice
 - company: Solstice
   position: DevOps Engineer
@@ -9,7 +15,7 @@
 - company: The Difference Engine
   position: Developer
   duration: July 2017 &mdash; January 2018
-  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting.   <ul class="resume-item-list"><li>Managed CI/CD workflow via TravisCI and Buildship</li><li>Developed Rails app with React components</li><li>Managed unit testing via RSpec and Jest</li><li>Trained new developers in development/testing workflow</li> </ul>
+  summary: Developer in agile team, primarily in charge of unit testing and deployment troubleshooting   <ul class="resume-item-list"><li>Managed CI/CD workflow via TravisCI and Buildship</li><li>Developed Rails app with React components</li><li>Managed unit testing via RSpec and Jest</li><li>Trained new developers in development/testing workflow</li> </ul>
 
 
 # HBK Engineering
