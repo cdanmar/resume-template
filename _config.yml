@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Carlos Martinez"
-resume_title:                   "Developer, Systems Administrator"
+resume_title:                   "DevOps Engineer"
 resume_contact_email:
   "cdanmar@gmail.com"
 resume_header_contact_info: "Chicago, IL | 224-402-5564 | cdanmar@gmail.com"
-resume_header_intro: "<p>I am an exeperienced Systems Administrator/DevOps Engineer. My passion is creating and supporting web applications, as well as the platforms that run them.</p>"
+resume_header_intro: "<p>I am an exeperienced Systems Administrator/DevOps Engineer passionate about the developer experience.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -41,7 +41,7 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/carlos-martinez-17ab15126/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/cdanmar/"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://cdanmar.com/"
 resume_print_social_links:      true

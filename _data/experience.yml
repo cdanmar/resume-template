@@ -1,15 +1,21 @@
 # Jobs
+#BreakFree Solutions
+- company: BreakFree Solutions
+  position: Senior Solutions Engineer
+  duration: July 2019 &mdash; Present
+  summary: Consultant Advising on Cloud Native Solutions and Security to Enterprise Customers <ul class="resume-item-list"><li>Created several workshops to help clients get familiar with Cloud Native patterns such as Build Automation and the Container Lifecycle</li><li>Created Terraform Templates to stand up AKS that are now implemented into BreakFree's Rapid Deploy Library </li><li>Built Kubernetes and it's deployment pipelines from scratch during multiple engagements</li><li>Leveraged Azure DevOps for build automation</li><li>Provided guidance for container security throughout the whole container lifecycle, from local development to production</li><li>Helped teams optimize, automate, and troubleshoot their existing Kubernetes Clusters</li><li>Mentored teammates on Container, Kubernetes, and IaC concepts</li></ul>
+
 #Enova
 - company: Enova
   position: Senior Deployment Engineer
-  duration: October 2018 &mdash; Present
+  duration: October 2018 &mdash; July 2019
   summary: Deployment Engineer focused on spearheading Cloud Native tools and patterns while supporting existing infrastructure <ul class="resume-item-list"><li>Spearheaded some of Enova's first container deployment projects, with a focus on establishing best practices that moved our team away from manual processes, server drift, and technical debt</li><li>Established new pipelines for container builds and promotion</li><li>Worked closely with other teams to establish new security practices, including migrating secrets to Vault and establishing container security standards</li></ul>
 
 #Solstice
 - company: Solstice
   position: DevOps Engineer
   duration: March 2018 &mdash; July 2018
-  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments in Google Kuberentes Engine for a large enterprise customer</li></ul>
+  summary: DevOps Engineer primarily in charge of managing Kuberenetes clusters via Infrastructure as Code and automated deployments <ul class="resume-item-list"><li>Implemented infrastructure as code using Terraform</li><li>Audited image security, and implemented automated container vulnerability scanning</li><li>Managed deployment pipeline via Jenkins and Spinnaker</li><li>Deployed and managed Kubernetes Clusters in both production and development environments in Google Kubernetes Engine for a large enterprise customer</li></ul>
 
 #The Difference Engine
 - company: The Difference Engine
