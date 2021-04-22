@@ -8,7 +8,7 @@
 #BreakFree Solutions
 - company: BreakFree Solutions
   position: Senior Solutions Engineer
-  duration: July 2019 &mdash; Present
+  duration: July 2019 &mdash; November 2020
   summary: Consultant Advising on Cloud Native Solutions and Security to Enterprise Customers <ul class="resume-item-list"><li>Created several workshops to help clients get familiar with Cloud Native patterns such as Build Automation and the Container Lifecycle</li><li>Created Terraform Templates to stand up AKS that are now implemented into BreakFree's Rapid Deploy Library </li><li>Built Kubernetes and it's deployment pipelines from scratch during multiple engagements</li><li>Leveraged Azure DevOps for build automation</li><li>Provided guidance for container security throughout the whole container lifecycle, from local development to production</li><li>Helped teams optimize, automate, and troubleshoot their existing Kubernetes Clusters</li><li>Mentored teammates on Container, Kubernetes, and IaC concepts</li></ul>
 
 #Enova
